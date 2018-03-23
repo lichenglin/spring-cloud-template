@@ -3,3 +3,6 @@ server:
 eureka:
   client:
     enabled: false
+spring:
+  application:
+    name: spring-cloud-tempalte
