@@ -1,1 +1,2 @@
 # spring-cloud-template
+本项目提供一个标准MAVEN工程,包含一个CLOUD的SERVER工程以及一个CLINET工程
